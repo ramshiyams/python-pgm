@@ -1,6 +1,6 @@
 l=[]
 p=[]
-for i in range(1,100):
+for i in range(31,100):
     l.append(i)
 print(l)
 for i in l:
